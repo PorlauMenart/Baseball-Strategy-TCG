@@ -91,8 +91,15 @@ Unity와 C#으로 개발한 야구 전략 TCG 졸업작품으로, MCTS 기반 AI
 - 튜토리얼  
   `Assets/UI/Scripts/TutorialManager.cs`
 
+## 실행 환경
+
+- Unity 2022.3.62f3
+- C#
+
 ## 실행 방법
 
-1. Unity 2022.3.x에서 프로젝트를 엽니다.
-2. `Assets/Scenes/GameMenu.unity` 또는 `SingleLane.unity`를 엽니다.
-3. Unity Editor에서 Play 버튼을 눌러 실행합니다.
+1. Repository를 Clone 또는 Download ZIP 합니다.
+2. Unity Hub에서 Unity 2022.3.62f3 버전으로 프로젝트를 엽니다.
+3. 패키지 로딩이 완료될 때까지 기다립니다.
+4. `Assets/Scenes/GameMenu.unity` 또는 `Assets/Scenes/SingleLane.unity`를 실행합니다.
+5. Unity Editor 상단의 Play 버튼을 눌러 게임을 실행합니다.
